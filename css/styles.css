@@ -1,0 +1,11 @@
+/* HEADER */
+header {padding: 20px 0px;}
+header .demande a{text-decoration: none;color: #3d3c68;font-weight: bold;padding-right: 36px;}
+header .demande .choix-demande button{background: #3d3c68;border:none;width: 45%}
+header .demande .choix-demande h1{font-size: 12px;color: #fff;font-weight: bold;}
+header .demande .tel{float: right;}
+
+
+/* CONTAINER */
+.container .bloc1{background-image: url(../images/img1.png);height: 220px;}
+.container .bloc1 h1{font-size: 29px;font-family: monospace;}
